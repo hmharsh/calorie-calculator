@@ -1,0 +1,10 @@
+C:\myproj\calorie calculater\calorie calculater\bin\Debug\calorie calculater.exe
+C:\myproj\calorie calculater\calorie calculater\bin\Debug\calorie calculater.pdb
+C:\myproj\calorie calculater\calorie calculater\bin\Debug\calorie calculater.xml
+C:\myproj\calorie calculater\calorie calculater\obj\Debug\calorie_calculater.calculater.resources
+C:\myproj\calorie calculater\calorie calculater\obj\Debug\calorie_calculater.login.resources
+C:\myproj\calorie calculater\calorie calculater\obj\Debug\calorie_calculater.Resources.resources
+C:\myproj\calorie calculater\calorie calculater\obj\Debug\calorie calculater.vbproj.GenerateResource.Cache
+C:\myproj\calorie calculater\calorie calculater\obj\Debug\calorie calculater.exe
+C:\myproj\calorie calculater\calorie calculater\obj\Debug\calorie calculater.xml
+C:\myproj\calorie calculater\calorie calculater\obj\Debug\calorie calculater.pdb

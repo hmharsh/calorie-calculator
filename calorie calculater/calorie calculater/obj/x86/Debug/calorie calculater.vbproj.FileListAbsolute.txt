@@ -1,0 +1,26 @@
+C:\myproj\calorie calculater\calorie calculater\obj\x86\Debug\calorie calculater.vbproj.GenerateResource.Cache
+C:\myproj\calorie calculater\calorie calculater\bin\Debug\calorie calculator.exe
+C:\myproj\calorie calculater\calorie calculater\bin\Debug\calorie calculator.pdb
+C:\myproj\calorie calculater\calorie calculater\bin\Debug\calorie calculator.xml
+C:\myproj\calorie calculater\calorie calculater\obj\x86\Debug\calorie_calculator.calculater.resources
+C:\myproj\calorie calculater\calorie calculater\obj\x86\Debug\calorie_calculator.login.resources
+C:\myproj\calorie calculater\calorie calculater\obj\x86\Debug\calorie_calculator.Resources.resources
+C:\myproj\calorie calculater\calorie calculater\obj\x86\Debug\calorie_calculator.new_user.resources
+C:\myproj\calorie calculater\calorie calculater\obj\x86\Debug\calorie_calculator.previous_data.resources
+C:\myproj\calorie calculater\calorie calculater\obj\x86\Debug\calorie_calculator.up.resources
+C:\myproj\calorie calculater\calorie calculater\obj\x86\Debug\calorie calculator.exe
+C:\myproj\calorie calculater\calorie calculater\obj\x86\Debug\calorie calculator.xml
+C:\myproj\calorie calculater\calorie calculater\obj\x86\Debug\calorie calculator.pdb
+C:\calorie calculater\calorie calculater\calorie calculater\obj\x86\Debug\calorie calculator.exe
+C:\calorie calculater\calorie calculater\calorie calculater\obj\x86\Debug\calorie calculator.xml
+C:\calorie calculater\calorie calculater\calorie calculater\obj\x86\Debug\calorie calculator.pdb
+C:\calorie calculater\calorie calculater\calorie calculater\bin\Debug\calorie calculator.exe
+C:\calorie calculater\calorie calculater\calorie calculater\bin\Debug\calorie calculator.pdb
+C:\calorie calculater\calorie calculater\calorie calculater\bin\Debug\calorie calculator.xml
+C:\calorie calculater\calorie calculater\calorie calculater\obj\x86\Debug\calorie_calculator.calculater.resources
+C:\calorie calculater\calorie calculater\calorie calculater\obj\x86\Debug\calorie_calculator.login.resources
+C:\calorie calculater\calorie calculater\calorie calculater\obj\x86\Debug\calorie_calculator.Resources.resources
+C:\calorie calculater\calorie calculater\calorie calculater\obj\x86\Debug\calorie_calculator.new_user.resources
+C:\calorie calculater\calorie calculater\calorie calculater\obj\x86\Debug\calorie_calculator.previous_data.resources
+C:\calorie calculater\calorie calculater\calorie calculater\obj\x86\Debug\calorie_calculator.up.resources
+C:\calorie calculater\calorie calculater\calorie calculater\obj\x86\Debug\calorie calculater.vbproj.GenerateResource.Cache
